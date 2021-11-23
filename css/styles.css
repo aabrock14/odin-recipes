@@ -1,0 +1,17 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.h2 .h3 {
+    text-decoration: underline;
+}
+
+li {
+    color: #300d0d;
+}
